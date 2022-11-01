@@ -1,5 +1,5 @@
 {
-  "name": "liyangwei-rn-demo",
+  "name": "liyangwei-rn",
   "version": "1.0.0",
   "description": "## Getting started",
   "main": "index.js",
@@ -16,10 +16,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/q975702873/rn_demo.git"
+    "url": "git+https://github.com/q975702873/liyangwei_rn.git"
   },
   "bugs": {
-    "url": "https://github.com/q975702873/rn_demo/issues"
+    "url": "https://github.com/q975702873/liyangwei_rn/issues"
   },
-  "homepage": "https://github.com/q975702873/rn_demo#readme"
+  "homepage": "https://github.com/q975702873/liyangwei_rn#readme"
 }
